@@ -29,6 +29,7 @@
   },
   "devDependencies": {
     "@types/react": "~18.2.79",
+    "jimp": "^1.6.1",
     "metro": "0.80.12",
     "tailwindcss": "3.3.2",
     "typescript": "~5.3.3"
