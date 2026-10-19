@@ -2,6 +2,7 @@
   "expo": {
     "name": "Silaria Mobile",
     "slug": "silaria-mobile",
+    "owner": "alqaf10s-team",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,6 +23,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7c829f96-ee38-450b-8091-20134102696b"
+      }
     }
   }
 }
